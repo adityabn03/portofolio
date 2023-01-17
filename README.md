@@ -2,11 +2,11 @@
 
 A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
-![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/140909796-815239e4-a986-46ad-bbd0-4b166127bbb8.JPG)
+
 
 ## Demo URL
 
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
+
 
 ## Features
 
@@ -41,7 +41,7 @@ brew install node
 2. ##### Clone the repo:
 
 ```
-git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
+git clone 
 ```
 
 3. ##### Open the project folder:

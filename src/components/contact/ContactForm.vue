@@ -1,8 +1,3 @@
-<script>
-import Button from '../reusable/Button.vue';
-export default { components: { Button } };
-</script>
-
 <template>
 	<div class="w-full md:w-1/2">
 		<div
@@ -13,7 +8,7 @@ export default { components: { Button } };
 			>
 				Contact Form
 			</p>
-			<form action="#" class="font-general-regular space-y-7">
+			<form action="https://getform.io/f/338e41f6-6c45-4c80-87a8-0adbacc7ead6" class="font-general-regular space-y-7" method="POST">
 				<div>
 					<label
 						class="block text-lg text-primary-dark dark:text-primary-light mb-2"
@@ -91,5 +86,10 @@ export default { components: { Button } };
 		</div>
 	</div>
 </template>
+
+<script>
+import Button from '../reusable/Button.vue';
+export default { components: { Button } };
+</script>
 
 <style lang="scss" scoped></style>
